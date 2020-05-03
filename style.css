@@ -1,0 +1,68 @@
+header{
+
+	background: lightgrey;
+	
+	margin: -60px -10px 0px -10px;
+	
+}
+
+h1{
+	text-align : center;
+	font-size: 80px;
+	color: darkred;
+
+}
+
+h3{
+	text-align: center;
+	font-size: 30px;
+	background: lightgreen;
+	margin: -60px -10px 0px -10px
+}
+h4{
+	text-align: center;
+	font-size: 20px;
+}
+
+.texts
+{
+		background: lightgrey;
+		text-align: center;
+		height: 40px;
+		font-size: 20px;
+
+}
+
+
+
+.btn {
+  background-color: ;
+  color: black;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 150px;
+	 
+    }
+    .wrapper
+    {
+    	text-align: center;
+    }
+  
+
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: white;
+}
+
+
+
+
+
+img {
+  width: 80px;
+  height: 30%;
+
+  
+}
